@@ -55,6 +55,7 @@
 #define FREQUENCY_ATTACK_LOW            2
 #define FREQUENCY_MIN_TARGET            807
 #define FREQUENCY_MAX_TARGET            1210
+#define IR1_CRITICAL_FREQUENCY          1432
 
 /* TRUSTED: Attack duration from Symantec Dossier */
 #define STUXNET_HIGH_DURATION_MS        900000
@@ -80,6 +81,11 @@
 #define S7_OB35_BLOCK                   0x0023
 #define S7_DB1_BLOCK                    0x0001
 #define S7_SDB_BLOCK                    0x0050
+
+#define STATUS_SUCCESS                  ((NTSTATUS)0x00000000L)
+#define STATUS_UNSUCCESSFUL             ((NTSTATUS)0xC0000001L)
+#define STATUS_ACCESS_DENIED            ((NTSTATUS)0xC0000022L)
+#define STATUS_INVALID_PARAMETER        ((NTSTATUS)0xC000000DL)
 
 /* HOOKED FUNCTION SIGNATURES
  * TRUSTED: 16 intercepted exports from Symantec Dossier and Kaspersky analysis*/
