@@ -82,6 +82,7 @@
 #define S7_DB1_BLOCK                    0x0001
 #define S7_SDB_BLOCK                    0x0050
 
+/* Windows NTSTATUS */
 #define STATUS_SUCCESS                  ((NTSTATUS)0x00000000L)
 #define STATUS_UNSUCCESSFUL             ((NTSTATUS)0xC0000001L)
 #define STATUS_ACCESS_DENIED            ((NTSTATUS)0xC0000022L)
