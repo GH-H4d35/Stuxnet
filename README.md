@@ -186,4 +186,4 @@ This research and reconstruction would not have been possible without the extens
 
 **Amr Thabet and Christian Roggia (research-virus/stuxnet)**
 
-This is an academic reconstruction. Use it to build stronger defenses, not to cause harm.
+`This is an academic reconstruction. Use it to build stronger defenses, not to cause harm.`
