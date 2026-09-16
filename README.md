@@ -31,17 +31,17 @@ Acknowledgements
 
 Stuxnet is widely recognized as the first known cyber-weapon designed to cause physical destruction to industrial control systems (ICS). It specifically targeted Siemens Step 7 software and S7-300/400 PLCs, ultimately manipulating frequency converter drives to damage centrifuge rotors.
 
-This repository is a reconstructed source code derived from the decompiled binaries. It preserves the original logic and attack vectors while structuring the codebase for readability and analysis.
+This repository is a **reconstructed** source code derived from the decompiled binaries. **It preserves the original logic and attack vectors while structuring the codebase for readability and analysis.**
 
 **Key Characteristics**
 
 Target: Siemens SIMATIC WinCC, Step 7, and S7 PLCs.
 
-Propagation: USB drives (LNK exploits), Network shares (Print Spooler), Peer-to-Peer (P2P).
+Propagation: USB drives **(LNK exploits)**, Network shares **(Print Spooler)**, **Peer-to-Peer (P2P).**
 
 Payload: Modification of PLC block logic (OB1/OB35) to alter motor frequencies.
 
-Stealth: Advanced Rootkit capabilities (MRxCls.sys, MRxNet.sys) for file, process, and registry hiding.
+Stealth: Advanced Rootkit capabilities '(MRxCls.sys, MRxNet.sys)' for file, process, and registry hiding.
 
 # Core Components
 
@@ -105,17 +105,17 @@ Stage 12: P2P Propagation
 
 **Build Instructions**
 
-Important: This codebase is designed for static analysis and debugging in a controlled virtual environment. It is not intended for live deployment on any critical infrastructure.
+**Important: This codebase is designed for static analysis and debugging in a controlled virtual environment. It is not intended for live deployment on any critical infrastructure.**
 
 **Requirements**
 
-Build Environment: Microsoft Visual Studio 2019/2022 (Windows) or mingw-w64.
+Build Environment: **Microsoft Visual Studio 2019/2022 (Windows) or mingw-w64.**
 
-Target OS: Windows XP / Windows 7 (for driver compatibility).
+Target OS: **Windows XP / Windows 7 (for driver compatibility).**
 
 Driver Kit: Windows Driver Kit (WDK) 7600 (if compiling kernel drivers).
 
-Building the User-Mode Modules
+Building the **User-Mode** Modules
 
 **Clone the repository**
 
@@ -142,19 +142,19 @@ cl /LD s7otbxdx.c user32.lib ws2_32.lib
 
 This code is intended for:
 
-Malware Analysis: Understanding the specific code logic used in advanced persistent threats (APTs).
+**Malware Analysis**: Understanding the specific code logic used in advanced persistent threats (APTs).
 
-Defensive Research: Developing detection signatures for ICS security tools (e.g., YARA rules, Snort signatures).
+**Defensive Research**: Developing detection signatures for ICS security tools (e.g., YARA rules, Snort signatures).
 
-Academic Study: Examining the intersection of cybersecurity and critical infrastructure protection.
+**Academic Study**: Examining the intersection of cybersecurity and critical infrastructure protection.
 
 **Analysis Setup**
 
 1. Isolate Environment: Use a virtual machine (VMWare/VirtualBox) with Host-Only networking enabled. Disable internet connectivity.
 
-2. Load Modules: Analyze the .dll and .sys files using tools such as IDA Pro, Ghidra, or x64dbg.
+2. Load Modules: Analyze the '.dll' and '.sys' files using tools such as IDA Pro, Ghidra, or x64dbg.
 
-3. Monitor Activity: Use Process Monitor (ProcMon), Process Hacker, and Wireshark to observe the behavior.
+3. Monitor Activity: **Use Process Monitor (ProcMon), Process Hacker, and Wireshark to observe the behavior.**
 
 # Legal and License
 
