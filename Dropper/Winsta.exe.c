@@ -36,6 +36,7 @@
 
 #define STATUS_SUCCESS                  ((NTSTATUS)0x00000000L)
 #define STATUS_UNSUCCESSFUL             ((NTSTATUS)0xC0000001L)
+#define ERROR_SUCCESS                   0L
 
 static BOOL Winsta_CreateMOF(LPCWSTR lpMofPath) {
     HANDLE hFile;
