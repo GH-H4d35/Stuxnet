@@ -48,31 +48,31 @@ Stealth: Advanced Rootkit capabilities '(MRxCls.sys, MRxNet.sys)' for file, proc
 The repository is organized by the primary modules identified during the analysis of the original malware.
 
 Module: Loader/Dropper
-Filename: winsta.exe, ~WTR4141.tmp
+Filename: `winsta.exe, ~WTR4141.tmp`
 Description: Entry point responsible for initial infection, privilege escalation, and deployment of other components.
 
 Module: Privilege Escalation
-Filename: ~WTR4132.tmp
+Filename: `~WTR4132.tmp`
 Description: Exploits the Win32k.sys vulnerability to gain system-level privileges.
 
 Module: S7 Hook Library
-Filename: s7otbxdx.dll
+Filename: `s7otbxdx.dll`
 Description: Malicious replacement of the original s7otbxsx.dll. Intercepts communication between Step 7 and the PLC.
 
 Module: Step7 Hook Library
-Filename: s7aaapix.dll
+Filename: `s7aaapix.dll`
 Description: Intercepts AUT (Automation Tool) API calls within the Step 7 engineering environment.
 
 Module: Rootkit (File System)
-Filename: mrxcls.sys
+Filename: `mrxcls.sys`
 Description: Kernel-mode driver used to hide Stuxnet files, processes, and registry keys via SSDT hooking.
 
 Module: Rootkit (Network)
-Filename: mrxnet.sys
+Filename: `mrxnet.sys`
 Description: Filters file system requests to hide malicious files and enables P2P propagation.
 
 Module: Payload (Attack)
-Filename: s7plcmain
+Filename: `s7plcmain`
 Description: The core logic responsible for the "Frequency Tampering" attack that damages the centrifuges.
 
 # Technical Architecture
@@ -99,7 +99,7 @@ Stage 12: P2P Propagation
 
 2. DLL Injection: It intercepts the s7blk_write function call.
 
-3. Code Injection: When a user downloads a project to the PLC, the malicious code is appended to the OB1/OB35 blocks.
+3. Code Injection: When a user downloads a project to the PLC, the malicious code is appended to the `OB1/OB35` blocks.
 
 4. Physical Impact: The PLC executes the manipulated code, causing the connected variable frequency drives (VFDs) to spin at abnormal frequencies (high/low), resulting in mechanical damage.
 
@@ -152,7 +152,7 @@ This code is intended for:
 
 1. Isolate Environment: Use a virtual machine (VMWare/VirtualBox) with Host-Only networking enabled. Disable internet connectivity.
 
-2. Load Modules: Analyze the '.dll' and '.sys' files using tools such as IDA Pro, Ghidra, or x64dbg.
+2. Load Modules: Analyze the `.dll` and `.sys` files using tools such as IDA Pro, Ghidra, or x64dbg.
 
 3. Monitor Activity: **Use Process Monitor (ProcMon), Process Hacker, and Wireshark to observe the behavior.**
 
