@@ -35,13 +35,13 @@ This repository is a **reconstructed** source code derived from the decompiled b
 
 **Key Characteristics**
 
-Target: Siemens SIMATIC WinCC, Step 7, and S7 PLCs.
+**Target: Siemens SIMATIC WinCC, Step 7, and S7 PLCs.**
 
 Propagation: USB drives **(LNK exploits)**, Network shares **(Print Spooler)**, **Peer-to-Peer (P2P).**
 
-Payload: Modification of PLC block logic (OB1/OB35) to alter motor frequencies.
+Payload: Modification of PLC block logic `(OB1/OB35)` to alter motor frequencies.
 
-Stealth: Advanced Rootkit capabilities '(MRxCls.sys, MRxNet.sys)' for file, process, and registry hiding.
+Stealth: Advanced Rootkit capabilities `(MRxCls.sys, MRxNet.sys)` for file, process, and registry hiding.
 
 # Core Components
 
@@ -53,11 +53,11 @@ Description: Entry point responsible for initial infection, privilege escalation
 
 Module: Privilege Escalation
 Filename: `~WTR4132.tmp`
-Description: Exploits the Win32k.sys vulnerability to gain system-level privileges.
+Description: Exploits the `Win32k.sys` vulnerability to gain system-level privileges.
 
 Module: S7 Hook Library
 Filename: `s7otbxdx.dll`
-Description: Malicious replacement of the original s7otbxsx.dll. Intercepts communication between Step 7 and the PLC.
+Description: Malicious replacement of the original `s7otbxsx.dll.` Intercepts communication between Step 7 and the PLC.
 
 Module: Step7 Hook Library
 Filename: `s7aaapix.dll`
@@ -85,12 +85,12 @@ Stage 3: Check Environment
 Stage 4a: Target Found (Siemens Software) -> Install S7 Hooks
 Stage 4b: Non-target -> Self-Destruct/Idle
 Stage 5: Monitor PLC Writes
-Stage 6: Detect OB1/OB35 Write -> Inject Payload
+Stage 6: Detect `OB1/OB35` Write -> Inject Payload
 Stage 7: Modify Frequency Output
 Stage 8: Physical Damage to Centrifuges
-Stage 9: Install Rootkit (MRxCls)
+Stage 9: Install Rootkit `(MRxCls)`
 Stage 10: Hide Files and Registry
-Stage 11: Load Network Module (MRxNet)
+Stage 11: Load Network Module `(MRxNet)`
 Stage 12: P2P Propagation
 
 **Execution Flow**
