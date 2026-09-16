@@ -1,5 +1,4 @@
 /*
- * Warning: This is just speculation
  * %System%\netsimp32.dll
  * P2P update communication + file sharing
  * Symantec "Stuxnet 0.5: The Missing Link"
