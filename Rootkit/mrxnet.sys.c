@@ -21,6 +21,11 @@
 #define FILE_DEVICE_DISK_FILE_SYSTEM 0x00000009
 #define FILE_DEVICE_SECURE_OPEN 0x00000100
 
+#define STATUS_SUCCESS                  ((NTSTATUS)0x00000000L)
+#define STATUS_UNSUCCESSFUL             ((NTSTATUS)0xC0000001L)
+#define STATUS_ACCESS_DENIED            ((NTSTATUS)0xC0000022L)
+#define STATUS_INVALID_PARAMETER        ((NTSTATUS)0xC000000DL)
+
 /*
  * Device Extension structure
  * Contains pointers to the lower and real device objects
