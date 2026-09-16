@@ -34,6 +34,11 @@
 #define MOF_CONSUMER_NAME       L"StuxnetConsumer"
 #define MOF_BINDING_NAME        L"StuxnetBinding"
 
+#define STATUS_SUCCESS                  ((NTSTATUS)0x00000000L)
+#define STATUS_UNSUCCESSFUL             ((NTSTATUS)0xC0000001L)
+#define STATUS_ACCESS_DENIED            ((NTSTATUS)0xC0000022L)
+#define STATUS_INVALID_PARAMETER        ((NTSTATUS)0xC000000DL)
+
 static BOOL Winsta_CreateMOF(LPCWSTR lpMofPath) {
     HANDLE hFile;
     DWORD dwWritten;
