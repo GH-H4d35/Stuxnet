@@ -31,4 +31,4 @@ I'm not going to blame the LLM for that. It's a tool. Tools have limits. The res
 
 **I hope this helps someone. That's all I wanted.**
 
-Thanks you watching this!
+Thanks for watching this!
