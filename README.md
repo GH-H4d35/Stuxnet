@@ -57,7 +57,7 @@ Description: Exploits the `Win32k.sys` vulnerability to gain system-level privil
 
 Module: S7 Hook Library
 Filename: `s7otbxdx.dll`
-Description: Malicious replacement of the original `s7otbxsx.dll.` Intercepts communication between Step 7 and the PLC.
+Description: Malicious replacement for the original `s7otbxsx.dll`. It intercepts communication between Step 7 and the PLC.
 
 Module: Step7 Hook Library
 Filename: `s7aaapix.dll`
