@@ -1,5 +1,5 @@
 /*
- * winsta.exe - Stuxnet Loader/Dropper (C++98, legacy style)
+ * winsta.exe - Stuxnet Loader/Dropper
  *
  * Persistence mechanism:
  *   - Does NOT use HKCU/HKLM\...\Run keys
