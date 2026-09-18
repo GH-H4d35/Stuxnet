@@ -1,4 +1,4 @@
-# Thank you for support it
+# Thank you for supporting it
 
 To those who insist that a reconstruction must be byte-exact, hash-verified, and independently validated to be considered legitimate:
 
