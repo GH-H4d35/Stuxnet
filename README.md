@@ -113,7 +113,7 @@ Build Environment: **Microsoft Visual Studio 2019/2022 (Windows) or mingw-w64.**
 
 Target OS: **Windows XP / Windows 7 (for driver compatibility).**
 
-Driver Kit: Windows Driver Kit (WDK) 7600 (if compiling kernel drivers).
+Driver Kit:**Windows Driver Kit (WDK) 7600 (if compiling kernel drivers).**
 
 Building the **User-Mode** Modules
 
