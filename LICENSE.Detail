@@ -1,0 +1,59 @@
+DieEinzelheit MIT License
+
+Version 1.0, 2026
+Copyright (C) 2026 The Stuxnet Reconstruction Authors
+
+                                         Preamble
+
+The DieEinzelheit MIT License is a permissive license adapted from the MIT License, and applies only to the DieEinzelheit directory of this repository.
+
+The DieEinzelheit directory (German for "the detail") contains detailed documentation, technical write-ups, analysis notes, and explanatory material. This license exists to keep that material maximally reusable while preserving attribution.
+
+                                    Terms and Conditions
+
+1. Scope
+
+This License applies only to files inside the DieEinzelheit directory. It does not apply to any other directory or file in this repository.
+
+2. Grant
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the material in the DieEinzelheit directory (the "Material"), to deal in the Material without restriction, including without limitation the rights to:
+
+· Use
+· Copy
+· Modify
+· Merge
+· Publish
+· Distribute
+· Sublicense
+· Sell
+
+...subject only to the conditions below.
+
+3. Conditions
+
+a) Attribution — The copyright notice and this permission notice must be included in all copies or substantial portions of the Material.
+
+b) Provenance — Any redistribution must state clearly:
+
+"This material originates from the DieEinzelheit directory of the Stuxnet Reconstruction Repository and is licensed under the DieEinzelheit MIT License."
+
+c) Educational Use — The Material is provided for educational and research purposes only. No guarantee is made regarding its accuracy, completeness, or fitness for any purpose.
+
+d) No Malicious Use — The Material may not be used for unauthorized access, malware distribution, circumvention of security controls, or any unlawful activity.
+
+4. Disclaimer
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIAL OR THE USE OR OTHER DEALINGS IN THE MATERIAL.
+
+END OF TERMS
+
+Copyright (C) 2026 Sadpainy
+
+Licensed under the DieEinzelheit MIT License.
+See LICENSE.Detail in the DieEinzelheit directory.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+For educational and research purposes only.
