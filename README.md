@@ -10,7 +10,6 @@
 ![Warning](https://img.shields.io/badge/Warning-Malware-critical?style=plastic&logo=virustotal&logoColor=white&labelColor=555555)
 ![Assembly](https://img.shields.io/badge/Assembly-x86-654FF0?style=plastic&logo=assemblyscript&logoColor=white&labelColor=654FF0)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white&labelColor=555555)
-![NSA](https://img.shields.io/badge/NSA-654FF0?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTI1IDJjLTEwIDAtMTggOC0xOCAxOHM4IDE4IDE4IDE4IDE4LTggMTgtMTgtOC0xOC0xOC0xOHoiLz48L3N2Zz4%3D&labelColor=654FF0)
 
 This repository contains a strictly educational and research-oriented reconstruction of the infamous Stuxnet worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010.
 
