@@ -127,7 +127,7 @@ cd Stuxnet
 **Build the main dropper**
 
 ```bash
-cd winsta
+cd Main
 nmake /f Makefile.win
 ```
 
