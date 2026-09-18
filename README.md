@@ -168,7 +168,7 @@ The code in this repository is a product of reverse engineering for educational 
 
 The authors do not claim ownership of the original malware.
 
-The code is provided "AS IS" without warranty of any kind.
+The code is provided **"AS IS"** without warranty of any kind.
 
 The authors are not responsible for any misuse or damage caused by this code.
 
