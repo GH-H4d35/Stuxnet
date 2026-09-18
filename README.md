@@ -1,6 +1,6 @@
 # Stuxnet
 
-![Build](https://img.shields.io/badge/Build-unstable-yellow?style=plastic&logo=github&logoColor=black&labelColor=yellow)
+![Build](https://img.shields.io/badge/Build-unstable-yellow?style=plastic&labelColor=yellow)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=plastic&logo=siemens&logoColor=white)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-4CAF50?style=plastic&logo=academia&logoColor=white&labelColor=2E7D32)
 
