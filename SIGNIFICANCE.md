@@ -4,9 +4,9 @@
 
 **You are applying the wrong standard to the wrong object, and you know it.**
 
-**This repository was never presented as a leaked binary, a verified sample, or a threat intelligence artifact.** It was presented as a **reconstruction — a readable, structural reimplementation of Stuxnet's attack chain**, **built from publicly available vendor reports, decompiled fragments, and independent research.** The author said so from the beginning. The README says so. The FOR_COMMUNITY.md says so. The TODO - Missing.txt says so. There is no deception here. There is no claim of authenticity. There is only an honest attempt to make a complex piece of history readable.
+**This repository was never presented as a leaked binary, a verified sample, or a threat intelligence artifact.** It was presented as a **reconstruction — a readable, structural reimplementation of Stuxnet's attack chain**, **built from publicly available vendor reports, decompiled fragments, and independent research.** The author said so from the beginning. The README says so. The FOR_COMMUNITY.md says so. The TODO - Missing.txt says so. There is no deception here. There is no claim of authenticity. **There is only an honest attempt to make a complex piece of history readable.**
 
-And yet the criticism continues, demanding hashes, binary offsets, and proof of lineage. Demanding that an anonymous researcher produce the original sample, the exact memory addresses, the cryptographic fingerprint of a weapon that was never publicly released. Demanding that he prove he used the same ingredients as a kitchen that has never opened its doors.
+**And yet the criticism continues, demanding hashes, binary offsets, and proof of lineage. Demanding that an anonymous researcher produce the original sample, the exact memory addresses, the cryptographic fingerprint of a weapon that was never publicly released.** **Demanding that he prove he used the same ingredients as a kitchen that has never opened its doors.**
 
 **This is not rigorous verification. This is gatekeeping dressed up as rigor.**
 
