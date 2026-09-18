@@ -160,19 +160,23 @@ This code is intended for:
 
 **License**
 
-This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
+This project is licensed under the**GNU General Public License v3.0 and LICENSE.Stuxnet.** See the LICENSE file for details.
 
 # Disclaimer
 
-The code in this repository is a product of reverse engineering for educational purposes only. The original authors of the Stuxnet worm are anonymous, but the reconstruction contained herein is the work of independent security researchers.
+This repository contains code produced through reverse engineering, provided strictly for educational and security research purposes only.
 
-The authors do not claim ownership of the original malware.
+The original authors of the Stuxnet worm are **anonymous**. The reconstruction contained herein is the independent work of security researchers and is not affiliated with, endorsed by, or connected to any original author or entity.
 
-The code is provided **"AS IS"** without warranty of any kind.
+The authors do not claim ownership of the original malware or any of its underlying concepts.
 
-The authors are not responsible for any misuse or damage caused by this code.
+This code is provided **"AS IS"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-By using this repository, you acknowledge that you are solely responsible for ensuring compliance with all applicable laws and regulations.
+The authors are not responsible for any misuse, damage, or legal consequences caused by this code, including but not limited to unauthorized access, data loss, or violation of applicable laws.
+
+By using this repository, you acknowledge that you are solely responsible for ensuring compliance with all applicable laws and regulations in your jurisdiction.
+
+**Do not use this code for malicious, unauthorized, or unlawful activities.**
 
 # Acknowledgements
 
