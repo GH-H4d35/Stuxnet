@@ -11,6 +11,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-x86-654FF0?style=plastic&logo=assemblyscript&logoColor=white&labelColor=654FF0)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white&labelColor=555555)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)
+![S7](https://img.shields.io/badge/S7-009999?style=plastic&logo=s7airlines&logoColor=white&labelColor=555555)
 
 This repository contains a strictly educational and research-oriented reconstruction of the infamous Stuxnet worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010.
 
