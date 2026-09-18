@@ -12,9 +12,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white&labelColor=555555)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)
 
-This repository contains a strictly educational and research-oriented reconstruction of the infamous Stuxnet worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010.
+This repository contains a strictly educational and research-oriented **reconstruction** of the infamous **Stuxnet** worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010.
 
-Disclaimer: This code is provided solely for academic study, malware analysis training, and defensive research. It is not intended to be used for any malicious purposes, nor is it a deployable piece of malware. The authors and contributors do not condone illegal or unethical activities.
+Disclaimer: This code is provided solely for academic study, malware analysis training, and defensive research. **It is not intended to be used for any malicious purposes, nor is it a deployable piece of malware.** The authors and contributors do not condone illegal or unethical activities.
 
 # Table of Contents
 
