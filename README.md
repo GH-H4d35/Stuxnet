@@ -1,6 +1,6 @@
 # Stuxnet
 
-![Build](https://img.shields.io/badge/Build-unstable-yellow?style=plastic&logo=githubactions&logoColor=black&labelColor=yellow)
+![Build](https://img.shields.io/badge/Build-unstable-yellow?style=plastic&logo=azurepipelines&logoColor=black&labelColor=yellow)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=plastic&logo=siemens&logoColor=white)
 ![Tests](https://img.shields.io/badge/Tests-passing-brightgreen?style=plastic&logo=checkmarx&logoColor=white&labelColor=brightgreen)
 ![License](https://img.shields.io/badge/License-AGPLv3-blue?style=plastic&logo=gnu&logoColor=white&labelColor=blue)
