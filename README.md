@@ -101,7 +101,7 @@ Stage 12: P2P Propagation
 
 1. Environment Reconnaissance: The worm checks for the presence of specific Siemens software (WinCC, Step 7) and specific target PLCs (S7-315, S7-417).
 
-2. DLL Injection: It intercepts the s7blk_write function call.
+2. DLL Injection: It intercepts the `s7blk_write` function call.
 
 3. Code Injection: When a user downloads a project to the PLC, the malicious code is appended to the `OB1/OB35` blocks.
 
