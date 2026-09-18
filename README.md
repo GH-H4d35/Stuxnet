@@ -3,6 +3,7 @@
 ![Build](https://img.shields.io/badge/Build-unstable-yellow?style=plastic&logo=github&logoColor=black&labelColor=yellow)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=plastic&logo=siemens&logoColor=white)
 ![Tests](https://img.shields.io/badge/Tests-passing-FF6D00?style=plastic&labelColor=654FF0)
+![Assembly](https://img.shields.io/badge/Assembly-x86-654FF0?style=plastic&logo=assemblyscript&logoColor=white&labelColor=555555)
 ![License](https://img.shields.io/badge/License-AGPLv3-critical?style=plastic&labelColor=555555)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-4CAF50?style=plastic&logo=academia&logoColor=white&labelColor=2E7D32)
