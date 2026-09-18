@@ -1,0 +1,59 @@
+Desktop MIT License
+
+Version 1.0, 2026
+Copyright (C) 2026 The Stuxnet Reconstruction Authors
+
+                                         Preamble
+
+The Desktop MIT License is a permissive license adapted from the MIT License, and applies only to the Desktop directory of this repository.
+
+The Desktop directory contains pure .ini configuration files — plain-text settings, layout definitions, and related configuration data. Because these files are simple configuration artifacts rather than executable code, this license is intentionally minimal and maximally permissive.
+
+                                    Terms and Conditions
+
+1. Scope
+
+This License applies only to files inside the Desktop directory. It does not apply to any other directory or file in this repository.
+
+2. Grant
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the material in the Desktop directory (the "Material"), to deal in the Material without restriction, including without limitation the rights to:
+
+· Use
+· Copy
+· Modify
+· Merge
+· Publish
+· Distribute
+· Sublicense
+· Sell
+
+...subject only to the conditions below.
+
+3. Conditions
+
+a) Attribution — The copyright notice and this permission notice must be included in all copies or substantial portions of the Material.
+
+b) Provenance — Any redistribution must state clearly:
+
+"This material originates from the Desktop directory of the Stuxnet Reconstruction Repository and is licensed under the Desktop MIT License."
+
+c) Configuration Disclaimer — These files are plain .ini configuration files provided for educational and research purposes only. No guarantee is made regarding their correctness, completeness, compatibility, or fitness for any particular system or purpose.
+
+d) No Malicious Use — The Material may not be used for unauthorized access, malware distribution, circumvention of security controls, or any unlawful activity.
+
+4. Disclaimer
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIAL OR THE USE OR OTHER DEALINGS IN THE MATERIAL.
+
+END OF TERMS
+
+Copyright (C) 2026 Sadpainy
+
+Licensed under the Desktop MIT License.
+See LICENSE.Desktop in the Desktop directory.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+Plain .ini configuration files for educational and research purposes only
