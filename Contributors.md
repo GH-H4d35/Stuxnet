@@ -3,7 +3,7 @@
 Thanks to everyone who has contributed to this project. Your time and effort are greatly appreciated.
 
 ## Contributors
-[@lunar-me](https://github.com/lunar-me) — Documentation fixes and grammar corrections.
+[@lunar-me](https://github.com/lunar-me) Documentation fixes and grammar corrections.
 
 ## License
 
