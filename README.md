@@ -7,6 +7,7 @@
 ![AGPLv3](https://img.shields.io/badge/License-AGPLv3-red?style=plastic)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-4CAF50?style=plastic&logo=bookstack&logoColor=white&labelColor=555555)
+![Warning](https://img.shields.io/badge/Warning-Malware-critical?style=plastic&logo=biohazard&logoColor=white&labelColor=555555)
 
 This repository contains a strictly educational and research-oriented reconstruction of the infamous Stuxnet worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010.
 
