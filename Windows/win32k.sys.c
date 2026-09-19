@@ -59,7 +59,7 @@
 #define KBDNLSTABLES_SIZE               0x40
 #define NLS_FUNCTION_TABLE_SIZE         0x18
 
-#define NLSFEProcType_INDEX             5
+#define NLSFEPROCTYPE_INDEX             5
 #define VK_VALUE                        0
 
 #define STATUS_SUCCESS                  ((NTSTATUS)0x00000000L)
