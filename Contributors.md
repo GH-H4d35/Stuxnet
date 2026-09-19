@@ -7,4 +7,4 @@ Thanks to everyone who has contributed to this project. Your time and effort are
 
 ## License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0), LICENSE.Stuxnet, LICENSE.XOR, LICENSE.Desktop.**.
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0), LICENSE.Stuxnet, LICENSE.XOR, LICENSE.Desktop and LICENSE.Detail.**
