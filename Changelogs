@@ -2,7 +2,7 @@
       Check Sadpainy/Stuxnet Version Repository Reported
        Sadpainy has created this file in 2026-9-20 17:00
 
-Stuxnet Reconstruct Verison: 1.0
+Stuxnet Reconstruct Verison: 1.3
 Author: OvO
 Timer: 2026-9-20
 Status: STATUS_ACTIVE (We are actively maintaining this project.)
@@ -12,6 +12,8 @@ License:  It looks like there are 5 licenses here.
           LICENSE.XOR
           LICENSE.Desktop
           LICENSE.Detail
+
+This repository is the 13th release (Stuxnet) published by Sadpainy
 
 If you see this file, your repository is latest (newest) Verison.
 ###################################################################
