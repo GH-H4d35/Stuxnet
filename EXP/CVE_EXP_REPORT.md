@@ -4,7 +4,7 @@
 
 Stuxnet is a computer worm discovered in 2010. It targeted industrial control systems, specifically Siemens SIMATIC WinCC / STEP 7 environments. The worm leveraged multiple vulnerabilities across Windows and Siemens software to achieve initial infection, privilege escalation, lateral movement, and payload execution.
 
-#.Microsoft Windows Vulnerabilities
+# Microsoft Windows Vulnerabilities
 
 **CVE-2010-2568 (MS10-046)**
 
@@ -26,7 +26,7 @@ Windows Task Scheduler privilege escalation vulnerability. Allows a local user t
 
 Windows Win32k keyboard layout privilege escalation vulnerability. Allows a local attacker to run arbitrary code in kernel mode. Used by Stuxnet for local privilege escalation.
 
-#.Siemens Vulnerabilities
+# Siemens Vulnerabilities
 
 **CVE-2010-2772**
 
