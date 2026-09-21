@@ -158,7 +158,7 @@ This code is intended for:
 
 **License**
 
-This project is licensed under the **GNU Affero General Public License v3.0, LICENSE.Stuxnet, LICENSE.XOR, LICENSE.Detail and LICENSE.Desktop.** See the LICENSE file for details.
+This project is licensed under the **GNU Affero General Public License v3.0, LICENSE.Stuxnet, LICENSE.XOR, LICENSE.Detail, Apache License 2.0 and LICENSE.Desktop.** See the LICENSE file for details.
 
 # Disclaimer
 
