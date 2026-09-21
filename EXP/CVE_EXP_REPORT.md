@@ -36,7 +36,7 @@ Siemens SIMATIC WinCC and PCS 7 hardcoded database password vulnerability. The d
 
 Siemens SIMATIC STEP 7 DLL hijacking vulnerability. Allows a malicious DLL placed in a project directory to be loaded by the STEP 7 application. Stuxnet used this to execute its payload within the engineering workstation environment.
 
-#.Summary Table
+# Summary Table
 
 CVE Vendor Component Purpose
 CVE-2010-2568 Microsoft Windows Shell Initial infection via USB
