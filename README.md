@@ -4,7 +4,6 @@
 ![Tests](https://img.shields.io/badge/Tests-passing-brightgreen?style=plastic&labelColor=brightgreen)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=plastic&logo=siemens&logoColor=white)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-4CAF50?style=plastic&logo=academia&logoColor=white&labelColor=2E7D32)
-![Repo Views](https://dynamic-repo-badges.vercel.app/svg/count/1/Repository%20Views/Sadpainy/Stuxnet)
 
 This repository contains a strictly educational and research-oriented **reconstruction** of the infamous **Stuxnet** worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010.
 
