@@ -5,14 +5,14 @@
 Stuxnet Reconstruct Version: 1.4
 Author: OvO
 Timer: 2026-9-20 (Created File Time)
-Status: STATUS_ACTIVE (We are actively maintaining this project.)
+Status: STATUS_BUSY (We don't have much time to maintain it.)
 License:  It looks like there are 6 licenses here.
           LICENSE (AGPL Verison 3)
           LICENSE.Stuxnet (Important, Must-Read.)
           LICENSE.XOR
           LICENSE.Desktop
           LICENSE.Detail
-          Apache License 2.0
+          LICENSE.Apache 2.0
 
 Code Quality: Tests Passing.
 (Compliant with Education Press publishing standards)
