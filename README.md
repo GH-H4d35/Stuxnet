@@ -160,21 +160,7 @@ This code is intended for:
 
 This project is licensed under the **GNU Affero General Public License v3.0, LICENSE.Stuxnet, LICENSE.XOR, LICENSE.Detail, Apache License 2.0 and LICENSE.Desktop.** See the LICENSE file for details.
 
-# Disclaimer
-
-This repository contains code produced through reverse engineering, provided strictly for educational and security research purposes only.
-
-The original authors of the Stuxnet worm are **anonymous**. The reconstruction contained herein is the independent work of security researchers and is not affiliated with, endorsed by, or connected to any original author or entity.
-
-The authors do not claim ownership of the original malware or any of its underlying concepts.
-
-This code is provided **"AS IS"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
-The authors are not responsible for any misuse, damage, or legal consequences caused by this code, including but not limited to unauthorized access, data loss, or violation of applicable laws.
-
-By using this repository, you acknowledge that you are solely responsible for ensuring compliance with all applicable laws and regulations in your jurisdiction.
-
-**Do not use this code for malicious, unauthorized, or unlawful activities.**
+# No Disclaimer. That's on you to be self-aware.
 
 # Acknowledgements
 
