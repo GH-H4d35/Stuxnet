@@ -1,5 +1,6 @@
 /*
- * Based on https://github.com/research-virus/stuxnet (Christian Roggia) and Symantec [reference:1]
+ * Based on https://github.com/research-virus/stuxnet (Christian Roggia) 
+ * and Symantec [reference:1]
  * Binary: s7otbxdx.dll (malicious replacement)
  * MD5: e220528ece0a7b1bcc870f72869237b6
  * SHA1: eb2e85732b29a28d0cf402d6d4c8c5927b3b4a68
