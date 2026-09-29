@@ -362,7 +362,7 @@ static DWORD Stub_ComputeCRC32(PBYTE pData, DWORD dwSize) {
     return ~crc;
 }
 
-/* =========================================================================
+/*
  * CONFIG DECRYPTION
  * sub_10001580 - DecryptConfig
  * MAYBE: The config header is encrypted with RC4 or XOR.
@@ -370,7 +370,7 @@ static DWORD Stub_ComputeCRC32(PBYTE pData, DWORD dwSize) {
  * +00 Dword flags
  * +04 Dword offset to main DLL
  * +08 Dword length of main DLL. [13†L5-L7]
- * ========================================================================= */
+ */
 
 static BOOL Stub_DecryptConfig(PBYTE pEncrypted, DWORD dwEncryptedSize, PSTUXNET_CONFIG_HEADER pConfig) {
     BYTE bKey = 0xA3;
